@@ -1,0 +1,10 @@
+node_modules/
+
+tablas/*.txt
+
+..gitignore.un~
+
+.app.js.swp
+
+.app.js.un~
+
